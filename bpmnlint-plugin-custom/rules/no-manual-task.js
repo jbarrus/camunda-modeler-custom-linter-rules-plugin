@@ -15,6 +15,6 @@ module.exports = function() {
   }
 
   return {
-    check: check
+    check
   };
 };

@@ -4,7 +4,8 @@
     "plugin:custom/recommended"
   ],
   "rules": {
-    "label-required": "off",
-    "custom/no-manual-task": "warn"
+    "label-required": "error",
+    "custom/no-manual-task": "error",
+    "custom/url-defined-service-task-connector": "error"
   }
 }
